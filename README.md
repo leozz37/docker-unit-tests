@@ -28,6 +28,12 @@ $ docker run example sh -c "go test"
 $ docker run example sh -c "python main_test.py"
 ```
 
+### Nodejs
+
+```bash
+$ docker run example sh -c "npm test"
+```
+
 ## Contribuiting
 
 Feel free to add any other language example.
